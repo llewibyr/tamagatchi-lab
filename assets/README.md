@@ -3,6 +3,11 @@
 ### Enjoy this Cute Tamagachi and try to keep your companion alive as long as possible.
 # Link
 #### https://llewibyr.github.io/tamagatchi-lab/
+# Stretch Goals
+#### I plan on making a better background and making an emoji myself to hightlight when it dies etc.
+#### Intend on making the buttons more personable and using a different font, also want to include a secret game inside of the game when Tamagatchi dies.
+# Attributions
+#### 
 # Technologies Used
 #### HTML, JS, CSS, README.MD
 # First look!!!
@@ -16,7 +21,8 @@
 ### Level meter
 # Functionality
 ### IF the user clickes the indiviual buttons to maintain zero on the level, THEN the tamagotchi stays alive, ELSE IF any one of the tamagatchi stats reaches above or equal to ten, THEN the tamagatchi dies and they lose the game.
-
+# Attriubutes
+#### 
 # Functions Used
 ### - getRandomInt
 ### - checkGameOver
