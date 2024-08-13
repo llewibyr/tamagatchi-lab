@@ -1,6 +1,12 @@
 # About
+###  FIVE GUYS TAMAGATCHI
 ### Enjoy this Cute Tamagachi and try to keep your companion alive as long as possible.
-
+# Link
+#### https://llewibyr.github.io/tamagatchi-lab/
+# Technologies Used
+#### HTML, JS, CSS, README.MD
+# First look!!!
+#### ![alt text](image.png)
 # Variables
 ### Reset Button
 ### Sleep Button
